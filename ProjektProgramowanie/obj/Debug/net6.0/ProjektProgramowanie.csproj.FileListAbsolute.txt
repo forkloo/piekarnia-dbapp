@@ -1,0 +1,15 @@
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\bin\Debug\net6.0\ProjektProgramowanie.exe
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\bin\Debug\net6.0\ProjektProgramowanie.deps.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\bin\Debug\net6.0\ProjektProgramowanie.runtimeconfig.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\bin\Debug\net6.0\ProjektProgramowanie.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\bin\Debug\net6.0\ProjektProgramowanie.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.csproj.AssemblyReference.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.AssemblyInfoInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.AssemblyInfo.cs
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.csproj.CoreCompileInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\refint\ProjektProgramowanie.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ProjektProgramowanie.genruntimeconfig.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\ProjektProgramowanie\obj\Debug\net6.0\ref\ProjektProgramowanie.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpsbD2IoZH2oT2wG9vVnEIQTHSTMfDBliQ2UzS28lYt/Zf6RCOqjmOiEVBNpj0ySfR4npv6ax27i6sPWzk4P4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\porlo\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

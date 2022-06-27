@@ -1,0 +1,12 @@
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\bin\Release\net6.0\Piekarnia.Infrastructure.deps.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\bin\Release\net6.0\Piekarnia.Infrastructure.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\bin\Release\net6.0\Piekarnia.Infrastructure.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.AssemblyInfo.cs
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\refint\Piekarnia.Infrastructure.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\Piekarnia.Infrastructure.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Infrastructure\obj\Release\net6.0\ref\Piekarnia.Infrastructure.dll

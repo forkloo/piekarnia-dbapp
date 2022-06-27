@@ -1,0 +1,25 @@
+:host{
+    background-color: #f2d0a4;
+
+    padding-top: 30px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    top: -30px;
+    right: 0px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    float:right;
+}
+
+div{
+    background-color: #d4b68e;
+
+    padding-left: 38px;
+    top: 100px;
+    
+    height: 300px;
+
+    right: 0px;
+    position: absolute;
+}

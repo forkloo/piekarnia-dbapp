@@ -1,0 +1,12 @@
+<h3 *ngIf="loggedClient !== null && loggedClient !== undefined && loggedClient.clientId !== -1" (click)="logOut()">{{loggedClient.clientName}} {{loggedClient.clientSurname}}</h3>
+<h3 *ngIf="loggedClient === null || loggedClient === undefined || loggedClient.clientId === -1" (click)="showLogForm()">Zaloguj</h3>
+
+<div *ngIf="logFormVisible && (loggedClient === null || loggedClient === undefined || loggedClient.clientId === -1)">
+    <p>Imie</p>
+    <input type="text" placeholder="Imię" id="cname">
+    <p>Nazwisko</p>
+    <input type="text" placeholder="Nazwisko" id="csurname">
+    <p>Haslo</p>
+    <input type="password" placeholder="Hasło" id="cpassword">
+    <button (click)="logIn()">Zaloguj</button>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.IData.deps.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.IData.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.IData.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.Common.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.Domain.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.Domain.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\bin\Release\net6.0\Piekarnia.Common.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.csproj.AssemblyReference.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.AssemblyInfoInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.AssemblyInfo.cs
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.csproj.CoreCompileInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.csproj.CopyComplete
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\refint\Piekarnia.IData.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\Piekarnia.IData.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IData\obj\Release\net6.0\ref\Piekarnia.IData.dll

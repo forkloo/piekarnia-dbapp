@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Common", "Piekarnia.Common\Piekarnia.Common.csproj", "{E8562C43-41C2-4408-BABA-6C89C564609A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Data.Sql", "Piekarnia.Data.Sql\Piekarnia.Data.Sql.csproj", "{AEBC909B-3228-4171-9149-CD61014D0439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Api", "Piekarnia.Api\Piekarnia.Api.csproj", "{84F245C1-5A32-408F-88D8-601B19F82F3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Services", "Piekarnia.Services\Piekarnia.Services.csproj", "{B0A24693-1F77-4650-9873-87D4E5CBB96B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.IServices", "Piekarnia.IServices\Piekarnia.IServices.csproj", "{5FD69182-179B-4F02-8816-2E557D7F9BCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Infrastructure", "Piekarnia.Infrastructure\Piekarnia.Infrastructure.csproj", "{4B448652-F346-4630-B9F2-BD865CB02EEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.IData", "Piekarnia.IData\Piekarnia.IData.csproj", "{DD20083C-52D3-4BD2-A768-26265BD308E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piekarnia.Domain", "Piekarnia.Domain\Piekarnia.Domain.csproj", "{1F0C0833-B499-48A1-BC73-61DB53660567}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{187972A1-E943-4240-A615-1151D761DDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piekarnia.Data.Sql.Test", "Piekarnia.Data.Sql.Test\Piekarnia.Data.Sql.Test.csproj", "{76D1683E-3EB1-40A5-B853-48A140FD41C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piekarnia.Domain.Test", "Piekarnia.Domain.Test\Piekarnia.Domain.Test.csproj", "{1C5C3303-754F-4B2A-99B5-E8704BB61854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piekarnia.Services.Test", "Piekarnia.Services.Test\Piekarnia.Services.Test.csproj", "{A3143BAB-0523-42F7-A7C8-71DDED118DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8562C43-41C2-4408-BABA-6C89C564609A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8562C43-41C2-4408-BABA-6C89C564609A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8562C43-41C2-4408-BABA-6C89C564609A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8562C43-41C2-4408-BABA-6C89C564609A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBC909B-3228-4171-9149-CD61014D0439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC909B-3228-4171-9149-CD61014D0439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC909B-3228-4171-9149-CD61014D0439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC909B-3228-4171-9149-CD61014D0439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F245C1-5A32-408F-88D8-601B19F82F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F245C1-5A32-408F-88D8-601B19F82F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F245C1-5A32-408F-88D8-601B19F82F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F245C1-5A32-408F-88D8-601B19F82F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A24693-1F77-4650-9873-87D4E5CBB96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A24693-1F77-4650-9873-87D4E5CBB96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A24693-1F77-4650-9873-87D4E5CBB96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A24693-1F77-4650-9873-87D4E5CBB96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD69182-179B-4F02-8816-2E557D7F9BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD69182-179B-4F02-8816-2E557D7F9BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD69182-179B-4F02-8816-2E557D7F9BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD69182-179B-4F02-8816-2E557D7F9BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B448652-F346-4630-B9F2-BD865CB02EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B448652-F346-4630-B9F2-BD865CB02EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B448652-F346-4630-B9F2-BD865CB02EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B448652-F346-4630-B9F2-BD865CB02EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD20083C-52D3-4BD2-A768-26265BD308E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD20083C-52D3-4BD2-A768-26265BD308E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD20083C-52D3-4BD2-A768-26265BD308E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD20083C-52D3-4BD2-A768-26265BD308E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0C0833-B499-48A1-BC73-61DB53660567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0C0833-B499-48A1-BC73-61DB53660567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0C0833-B499-48A1-BC73-61DB53660567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0C0833-B499-48A1-BC73-61DB53660567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D1683E-3EB1-40A5-B853-48A140FD41C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D1683E-3EB1-40A5-B853-48A140FD41C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D1683E-3EB1-40A5-B853-48A140FD41C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D1683E-3EB1-40A5-B853-48A140FD41C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5C3303-754F-4B2A-99B5-E8704BB61854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5C3303-754F-4B2A-99B5-E8704BB61854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5C3303-754F-4B2A-99B5-E8704BB61854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5C3303-754F-4B2A-99B5-E8704BB61854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3143BAB-0523-42F7-A7C8-71DDED118DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3143BAB-0523-42F7-A7C8-71DDED118DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3143BAB-0523-42F7-A7C8-71DDED118DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3143BAB-0523-42F7-A7C8-71DDED118DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{76D1683E-3EB1-40A5-B853-48A140FD41C8} = {187972A1-E943-4240-A615-1151D761DDCF}
+		{1C5C3303-754F-4B2A-99B5-E8704BB61854} = {187972A1-E943-4240-A615-1151D761DDCF}
+		{A3143BAB-0523-42F7-A7C8-71DDED118DAE} = {187972A1-E943-4240-A615-1151D761DDCF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040EB9B1-D1F6-4794-86C5-55AC6994003A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.csproj.AssemblyReference.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.AssemblyInfoInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.AssemblyInfo.cs
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\bin\Debug\net6.0\Piekarnia.Domain.deps.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\bin\Debug\net6.0\Piekarnia.Domain.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\bin\Debug\net6.0\Piekarnia.Domain.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\bin\Debug\net6.0\Piekarnia.Common.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\bin\Debug\net6.0\Piekarnia.Common.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.csproj.CopyComplete
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\refint\Piekarnia.Domain.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\Piekarnia.Domain.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.Domain\obj\Debug\net6.0\ref\Piekarnia.Domain.dll

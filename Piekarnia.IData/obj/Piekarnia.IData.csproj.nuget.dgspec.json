@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.IData\\Piekarnia.IData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj",
+        "projectName": "Piekarnia.Common",
+        "projectPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj",
+        "packagesPath": "C:\\Users\\porlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\porlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\Piekarnia.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\Piekarnia.Domain.csproj",
+        "projectName": "Piekarnia.Domain",
+        "projectPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\Piekarnia.Domain.csproj",
+        "packagesPath": "C:\\Users\\porlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\porlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj": {
+                "projectPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Common\\Piekarnia.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.IData\\Piekarnia.IData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.IData\\Piekarnia.IData.csproj",
+        "projectName": "Piekarnia.IData",
+        "projectPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.IData\\Piekarnia.IData.csproj",
+        "packagesPath": "C:\\Users\\porlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.IData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\porlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\Piekarnia.Domain.csproj": {
+                "projectPath": "C:\\Users\\porlo\\source\\repos\\ProjektProgramowanie\\Piekarnia.Domain\\Piekarnia.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

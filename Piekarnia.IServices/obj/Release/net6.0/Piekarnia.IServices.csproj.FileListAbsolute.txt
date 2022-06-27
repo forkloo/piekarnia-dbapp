@@ -1,0 +1,17 @@
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.IServices.deps.json
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.IServices.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.IServices.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.Common.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.Domain.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.Common.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\bin\Release\net6.0\Piekarnia.Domain.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.csproj.AssemblyReference.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.AssemblyInfoInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.AssemblyInfo.cs
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.csproj.CoreCompileInputs.cache
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.csproj.CopyComplete
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\refint\Piekarnia.IServices.dll
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\Piekarnia.IServices.pdb
+C:\Users\porlo\source\repos\ProjektProgramowanie\Piekarnia.IServices\obj\Release\net6.0\ref\Piekarnia.IServices.dll

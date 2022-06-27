@@ -1,0 +1,23 @@
+<button *ngIf="editMode !== true" (click)="toggleClientCreation()" id="add-client">Dodaj Klienta</button>
+
+<div *ngIf="client !== undefined && client !== null">
+    <h1>Imie</h1>
+    <p *ngIf="editMode !== true"> {{client.clientName}}</p>
+    <input type="text" *ngIf="editMode === true" value="{{client.clientName}}" placeholder="Imię" id="cname">
+    <h1>Nazwisko</h1>
+    <p *ngIf="editMode !== true"> {{client.clientSurname}}</p>
+    <input type="text" *ngIf="editMode === true" value="{{client.clientSurname}}" placeholder="Nazwisko" id="csurname">
+
+    <h1>Miasto</h1>
+    <p *ngIf="editMode !== true"> {{client.clientCity}}</p>
+    <input type="text" *ngIf="editMode === true" value="{{client.clientCity}}" placeholder="Miasto" id="ccity">
+    <h1>Mail</h1>
+    <p *ngIf="editMode !== true"> {{client.clientMail}}</p>
+    <input type="text" *ngIf="editMode === true" value="{{client.clientMail}}" placeholder="Mail" id="cmail">
+    <br *ngIf="editMode === true">
+    <button *ngIf="editMode !== true" (click)="editClient()">Edytuj</button>
+    <button *ngIf="editMode === true" (click)="saveChanges()">Zastosuj</button>
+    <button *ngIf="editMode !== true" (click)="deleteClient()">Usun</button>
+</div>
+
+
